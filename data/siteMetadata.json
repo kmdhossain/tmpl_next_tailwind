@@ -1,7 +1,7 @@
 {
   "title": "Content Starter Blog",
   "author": "Ashraf Alam",
-  "headerTitle": "Ashraf Alam: ",
+  "headerTitle": "Ashraf Alam Blog",
   "description": "A blog created with Next.js and Tailwind.css",
   "language": "en-us",
   "siteUrl": "https://tmpl-next-tailwind.vercel.app/",
@@ -9,7 +9,7 @@
   "siteLogo": "/static/images/logo.png",
   "image": "/static/images/avatar.png",
   "socialBanner": "/static/images/twitter-card.png",
-  "email": "joycscs@gmail.com",
+  "email": "email@gmail.com",
   "github": "https://github.com/AshrafAlam",
   "twitter": "https://twitter.com/AshrafulAlam",
   "facebook": "https://www.facebook.com/ashraful.alam/",
