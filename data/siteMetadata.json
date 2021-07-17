@@ -1,7 +1,7 @@
 {
-  "title": "Content Starter Blog",
-  "author": "Ashraf Alam",
-  "headerTitle": "Ashraf Alam Blog",
+  "title": "Khandaker's Tech Blog",
+  "author": "Khandaker Hossain",
+  "headerTitle": "Tech Blog on .NET/Blazor/React",
   "description": "A blog created with Next.js and Tailwind.css",
   "language": "en-us",
   "siteUrl": "https://tmpl-next-tailwind.vercel.app/",
