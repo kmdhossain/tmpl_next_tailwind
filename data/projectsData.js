@@ -1,9 +1,9 @@
 const projectsData = [
   {
-    title: 'EISK',
+    title: 'Freelancer',
         description: `Code and utilities to build scalable web applications easily.`,
     imgSrc: '/static/images/eisk.png',
-        href: 'https://github.com/EISK',
+        href: 'https://github.com/',
   },
   {
       title: 'SimpleCommands.NET',
