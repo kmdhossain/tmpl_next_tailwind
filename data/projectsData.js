@@ -3,7 +3,7 @@ const projectsData = [
     title: 'Freelancer',
         description: `Code and utilities to build scalable web applications easily.`,
     imgSrc: '/static/images/eisk.png',
-        href: 'https://github.com/',
+        href: '/about',
   },
   {
       title: 'SimpleCommands.NET',
